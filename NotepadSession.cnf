@@ -1,0 +1,16 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="8">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="130" endPos="130" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\ZXTxHTEMPy.bat" backupFilePath="" originalFileLastModifTimestamp="1483716029" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="494" endPos="494" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\ZXTxCTEMPy.bat" backupFilePath="" originalFileLastModifTimestamp="1483716029" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="166" endPos="166" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\ZXTxSETTEMPy.bat" backupFilePath="" originalFileLastModifTimestamp="1483716029" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="672" startPos="125" endPos="125" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\ZXTxMODEy.bat" backupFilePath="" originalFileLastModifTimestamp="1483716029" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="432" startPos="277" endPos="277" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\ZXTxFANy.bat" backupFilePath="" originalFileLastModifTimestamp="1483716029" />
+            <File firstVisibleLine="225" xOffset="0" scrollWidth="848" startPos="6244" endPos="6244" selMode="0" lang="Normal Texte" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\log.log" backupFilePath="" originalFileLastModifTimestamp="1483718512" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="34" endPos="34" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\RELAYx_y.bat" backupFilePath="" originalFileLastModifTimestamp="1483716059" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="888" startPos="563" endPos="563" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\FPx_y.bat" backupFilePath="" originalFileLastModifTimestamp="1483718484" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="232" startPos="487" endPos="487" selMode="0" lang="Batch" encoding="-1" filename="C:\Program Files (x86)\Domoticz\Z9AC\SetSymbols.bat" backupFilePath="" originalFileLastModifTimestamp="1483725468" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
