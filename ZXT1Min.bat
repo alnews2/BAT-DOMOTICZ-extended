@@ -1,6 +1,7 @@
 ::ZXT1Min
 ::
 ::
+
 call SetSymbols
 echo %echomode%
 echo. >> %logfile%

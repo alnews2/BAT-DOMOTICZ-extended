@@ -5,24 +5,24 @@
 :::::::::::::::::::ZXT::::::::::::::::::::::
 set ZXTpulse-duration=600
 ::
-set ZXT1mode=130
-set ZXT2mode=171
+set ZXT1mode=244
+set ZXT2mode=186
 set ZXT3mode=41
 
 set Modeoff=0
 set Modeheat=1
 set Modecool=2
 ::
-set ZXT1heatTemp=131
-set ZXT2heatTemp=172
+set ZXT1heatTemp=245
+set ZXT2heatTemp=187
 set ZXT3heatTemp=42
 
-set ZXT1coldTemp=132
-set ZXT2coldTemp=173
+set ZXT1coldTemp=246
+set ZXT2coldTemp=188
 set ZXT3coldTemp=43
 ::
-set ZXT1fan=135
-set ZXT2fan=176
+set ZXT1fan=249
+set ZXT2fan=191
 set ZXT3fan=46
 
 set FanAutoLow=0
@@ -50,11 +50,11 @@ set AUBEmaxval=95
 set AUBEintertemp=1
 set AUBEstop=300
 :::::::::::::::::EXPLOIT::::::::::::::::::::
-::set echomode=on
-set echomode=off
+set echomode=on
+::set echomode=off
 Set intercmd=5
 set logfile="C:\Program Files (x86)\Domoticz\Z9AC\log.log"
-set modiffile="C:\Program Files (x86)\Domoticz\Z9AC\modif.bat"
+set modiffile="modif.bat"
 
 
 ::------------------------------------------
