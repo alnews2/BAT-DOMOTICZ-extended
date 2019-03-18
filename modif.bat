@@ -1,1 +1,1 @@
-set ZXTpulse-duration=1200 
+set ZXTpulse-duration=600 

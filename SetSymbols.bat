@@ -41,6 +41,7 @@ set FP2=84
 set FPconfort=100
 set FPeco=25
 set FP1-pulse-duration=3600
+set FP2-pulse-duration=3600
 :::::::::::::::::DIMMER:::::::::::::::::::::
 set DIMMERID=88
 ::
@@ -50,8 +51,8 @@ set AUBEmaxval=95
 set AUBEintertemp=1
 set AUBEstop=300
 :::::::::::::::::EXPLOIT::::::::::::::::::::
-set echomode=on
-::set echomode=off
+set echomode=off
+::set echomode=on
 Set intercmd=5
 set logfile="C:\Program Files (x86)\Domoticz\Z9AC\log.log"
 set modiffile="modif.bat"
