@@ -1,4 +1,4 @@
-::FocusPulseZXT1z (tempo=%1 sec)
+::ZXTallOff
 ::
 ::
 call SetSymbols
