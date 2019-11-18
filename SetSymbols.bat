@@ -5,25 +5,30 @@
 :::::::::::::::::::ZXT::::::::::::::::::::::
 set ZXTpulse-duration=600
 ::
-set ZXT1mode=244
-set ZXT2mode=186
-set ZXT3mode=41
+
+set ZXT1temp=343
+set ZXT2temp=336
+set ZXT3temp=298
+
+set ZXT1mode=337
+set ZXT2mode=330
+set ZXT3mode=283
 
 set Modeoff=0
 set Modeheat=1
 set Modecool=2
 ::
-set ZXT1heatTemp=245
-set ZXT2heatTemp=187
-set ZXT3heatTemp=42
+set ZXT1heatTemp=338
+set ZXT2heatTemp=331
+set ZXT3heatTemp=284
 
-set ZXT1coldTemp=246
-set ZXT2coldTemp=188
-set ZXT3coldTemp=43
+set ZXT1coldTemp=339
+set ZXT2coldTemp=332
+set ZXT3coldTemp=285
 ::
-set ZXT1fan=249
-set ZXT2fan=191
-set ZXT3fan=46
+set ZXT1fan=342
+set ZXT2fan=335
+set ZXT3fan=288
 
 set FanAutoLow=0
 set FanOnLow=1
