@@ -2,7 +2,7 @@
 ::Mode and Fan differ only by idx...
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[ZXTx_nvalue_y %1 %2=======================] >>%logfile%

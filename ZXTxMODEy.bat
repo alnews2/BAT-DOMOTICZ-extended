@@ -2,7 +2,7 @@
 ::
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[ZXTmode %1 %2===================] >>%logfile%
@@ -11,7 +11,7 @@ for /f "delims=" %%i in ('time/T') do Set Mytime=%%i
 echo %MyDate% : %Mytime% (%3) >>%logfile%
 echo [--------------------------] >>%logfile%
 echo ZXTx_nvalue_y  %1(mode) %2 %3 >>%logfile%
-call ZXTx_nvalue_y  %1 %2 %3
+call %~dp0ZXTx_nvalue_y  %1 %2 %3
 echo [=========================ZXTmode]] >>%logfile%
 
 

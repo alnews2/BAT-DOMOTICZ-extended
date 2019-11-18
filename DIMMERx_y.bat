@@ -2,7 +2,7 @@
 ::
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[DIMMERx_y %1 %2========================] >>%logfile%

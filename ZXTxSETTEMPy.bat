@@ -2,7 +2,7 @@
 ::Cold and Heat differ only by idx...
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[ZXTxSETTEMPy %1 %2=================] >>%logfile%

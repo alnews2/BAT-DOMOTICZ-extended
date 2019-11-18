@@ -2,7 +2,7 @@
 ::
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[AUBE %1 %2========================] >>%logfile%
@@ -12,10 +12,10 @@ echo %MyDate% : %Mytime% >>%logfile%
 echo [--------------------------] >>%logfile%
 
 for /l %%v in (%AUBEminval%,%AUBEstepval%,%AUBEmaxval%) do (
-call DIMMERx_y %DIMMERID% %%v
+call %~dp0DIMMERx_y %DIMMERID% %%v
 timeout %AUBEintertemp% >NUL
 )
 timeout %AUBEstop% >NUL
-call DIMMERx_y %DIMMERID% 0
+call %~dp0DIMMERx_y %DIMMERID% 0
 echo [==============================AUBE]] >>%logfile%
 

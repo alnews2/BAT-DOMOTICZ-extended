@@ -2,7 +2,7 @@
 ::Cold and Heat differ only by idx...
 ::
 ::
-call SetSymbols
+call %~dp0SetSymbols
 echo %echomode%
 echo. >>%logfile%
 echo [[ZXTxHTEMPy %1 %2==================] >>%logfile%
@@ -11,6 +11,6 @@ for /f "delims=" %%i in ('time/T') do Set Mytime=%%i
 echo %MyDate% : %Mytime% (%3) >>%logfile%
 echo [--------------------------] >>%logfile%
 echo ZXTxSETTEMPy %1(heat) %2 %3 >>%logfile%
-call ZXTxSETTEMPy %1 %2 %3
+call %~dp0ZXTxSETTEMPy %1 %2 %3
 echo [========================ZXTxHTEMPy]] >>%logfile%
 

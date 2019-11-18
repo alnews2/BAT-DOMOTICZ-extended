@@ -65,6 +65,6 @@ set modiffile="modif.bat"
 
 ::------------------------------------------
 
-call %modiffile%
+call %~dp0%modiffile%
 
 
